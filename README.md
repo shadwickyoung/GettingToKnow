@@ -15,7 +15,8 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 ###### Other Nuggets on Leadership
 
 1. Be Authentic! Be yourself. Motivate by focusing on the bigger picture, following your values, and focusing on long-term success
-2. Be Ethical! Respect others. Trust others. Honesty wins. Show consideration. Do it fairly. 
+2. Be Ethical! Respect others. Trust others. Honesty wins. Chivalry's not dead. Do things fairly. 
+3. Be Flexible! Change happens and you evangelize adoption. Embrace new ideas and always open to improvement! 
 
 ## 
 

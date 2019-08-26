@@ -18,7 +18,7 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 
 2. Be Ethical! Respect others. Trust others. Honesty wins. Chivalry's not dead. Do things fairly. 
 
-3. Be Flexible! Change happens and you evangelize adoption. Embrace new ideas and always open to improvement! 
+3. Be Flexible! Change happens and you evangelize adoption. Embrace new ideas and always be open to improvement! 
 
    ------
 

@@ -36,9 +36,9 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 - [HRDQ Assessment](https://www.hrdqstudent.com/)  (3 Primary Tendencies in Bold)
 
   - Direct (20)
-  - Spirited (27)
-  - Systematic (26)
-  - Considerate (27)
+  - **Spirited (27)**
+  - **Systematic (26)**
+  - **Considerate (27)**
 
 - [Gallup Strengths Finder](https://www.gallupstrengthscenter.com/)
 

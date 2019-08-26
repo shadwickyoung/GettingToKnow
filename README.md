@@ -88,11 +88,9 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 
 **What makes 1:1 the most valuable for you?**
 
-I want to convey my dreams and aspirations
-
-I want to learn about you and understand what you need from me
-
-I just want to get to know you
+- I want to convey my dreams and aspirations
+- I want to learn about you and understand what you need from me
+- I just want to get to know you
 
 **What are your goals for this year? Next 3 months?**
 
@@ -118,9 +116,45 @@ I just want to get to know you
 
 ## My expectations of folks who report to me
 
-At the time of writing this, I don't have anyone reporting to me! I've had as many as 15 direct reports at once and I some general best practices that I've shared to help me help them:
+At the time of writing this, I don't have anyone reporting to me in my current role. I've had as many as 15 direct reports at once and I some general best practices that I've shared to help me help them:
 
-- 
+- Be [humble, hungry (driven) and smart (people smart)](https://www.tablegroup.com/books/ideal-team-player). This makes for great team members. 
+- Ask questions. Be curious about what's happening throughout the organization, how it impacts you, and how you can help.
+- When I ask what you need, please tell me. If I know what you want/need, I can take actionable steps to help. If you're struggling with something, ask for help. Don't wait until a 1:1 for help. Bug me. Message me. Walk up to me.
+- Leave room for some grace. I won't always have the answer, but I'll do my best to get it. I'm human. I mess up. I'll probably forget something. I won't get frustrated by you asking something multiple times. I'm your advocate. Keep asking! 
+
+## What you can expect of me as your manager
+
+1. I'm for you, not against you. I'll promote you, consul you, listen and understand your concerns, and provide real-actionable-feedback. 
+2. I will give you the good and bad news directly. I'll keep you informed of anything impacting you. 
+3. I'll want to learn about you as a person not just a professional. I'll act like a human being and show kindness and consideration knowing that everyone's situation is different and there is no one-size-fits-all to help. 
+4. I'll set a high bar for you and provide opportunities to go above said bar. I'll help along the way too. 
+5. I'll provide ways for you to learn, improve, and grow. 
+6. I won't  micro-manage you. My goal is to empower, not control. 
+
+## My Influences
+
+I've been a Christian the majority of my life. I've learned a lot of my leadership and decision-making processes as well as "being a kind human being" from Jesus and his teachings. 
+
+I've also had some great mentors through the years Nana (my grandma), Kylie (my wife), Rich (my father in-law), Shaunna, Nicki, and Sam Allen (my pastor)) who have taught me either about life, business, or both! There's many others from my friends growing up, through my time at Chico State, Milestone, my time with Googlers, and my current job at Build.com.
+
+For those humans I don't know personally but have somehow influenced me professionally or in life see below (no real order):
+
+- Matthew, Mark, Luke, John, Paul, and Solomon (and others but those are my favorite), C.S Lewis, MLKJ ,Galileo Galilei, Isaac Newton, Aristotle, Martin Luther, David Platt, Francis Chan, Simon Sinek, Patrick Lencioni, Switchfoot and Muse (probably my two favorite bands). There's definitely more but that's the first ones that come to mind. 
+
+## My Values
+
+At the end of the day it's all about people. Being loving to each other and supporting one another. Helping each other grow and learn and succeed in our goals. Family is of the utmost importance and as a dad and husband I've learned to value this above anything material. I do my best to promote love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. 
+
+
+
+Always excited to connect with people and learn from one another. I'm at shadwickyoung@gmail.com. 
+
+
+
+Talk to you soon :)
+
+
 
 
 

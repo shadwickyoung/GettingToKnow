@@ -68,7 +68,7 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 
 **How will I know when you're grumpy?**
 
-- I'll say something. Pretty thick skin. If something is bothering me, I'll vocalize it. You likely won't be able to tell from my general demeanor, body language and actions.  I'll stay positive and keep the mood upbeat.
+- I'll say something. My skin is fairly thick and if something is bothering me, I'll vocalize it. You likely won't be able to tell if I'm having a bad day from my general demeanor, body language and actions.  I'll stay positive and keep the mood upbeat.
 
 **How can I help you when you're grumpy?**
 
@@ -76,41 +76,51 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 
 **What medium do you like feedback in -chat, email, in person, etc.?**
 
-- Depends! By default in-person ( in-person or via video chat. If it's something that's not complicated or a quick snippet, chat and email works. 
+- Depends! By default in-person ( in-person or via video chat. If it's something that's not complicated or a quick snippet, chat and email works. If it's a sleep thing, encourage me to take it easy (because I will keep working)
 
 **What routine do you like feedback in- routine like in 1:1s, or as it happens?**
 
-- As it happens. If it requires a longer conversation, we can set up some time. 1:1s are for relationships.
+- As it happens. If it requires a longer conversation, we can set up some time. 1:1s are for learning about each other. 
 
 **How do you prefer to receive recognition (public or private)?**
 
-- I don't mind being an unsung hero but it's nice to have public recognition in order to validate the work you've done (and it helps with job security). Most of the time I'm onboard with success being associated as a  "team effort"
+- I don't mind being an unsung hero but it's nice to have public recognition (mostly for job security and future growth). Most of the time I'm for success being associated as a  "team effort" and I don't need to be "the guy" who did "the thing"
 
 **What makes 1:1 the most valuable for you?**
 
-- I want to convey my goals and aspirations
-- I want to learn about you and understand what you need from me
-- I just want to get to know you
+I want to convey my dreams and aspirations
+
+I want to learn about you and understand what you need from me
+
+I just want to get to know you
 
 **What are your goals for this year? Next 3 months?**
 
 - Let's start with **3 months**. As of writing this, I'd like to pass the PMI-ACP exam. It's something I've been procrastinating and I should just do it. 
 - **Year-long** goal. I'd like to continue developing old and build new relationships within Ferguson, Build, Supply, etc., learn more about our business, and help my team(s) achieve their goals.  I also want to lead the charge on process improvement at Build.com. Anything more specific than that...ask me in a couple months.
-  - Unrelated, I'm working on a book, a few other side projects, and have some dad and husband goals which are highest priority for me.  
+  - Unrelated, I'm working on a book, a few other side projects, and have some dad, husband, and family goals which are highest priority for me. 
 
+ **What do you need from your manager?**
 
+- Autonomy. Trust. Feedback. Growth Opportunities. Guidance. Advancement. 
 
+**From your team?**
 
+- Communication. Flexibility. Hunger (drive) Humility. Accountability. 
 
+**From your peers (outside the team)**
 
+- Keeping everyone looped in. Breaking down silos. Sharing visions and aligning on common goals. Working together for the same outcome. 
 
+**What's your favorite baked good? **
 
+- Nana's chocolate chip cookies. Bar-none. Just need milk. 
 
+## My expectations of folks who report to me
 
+At the time of writing this, I don't have anyone reporting to me! I've had as many as 15 direct reports at once and I some general best practices that I've shared to help me help them:
 
-## 
-
-
+- 
 
 
 

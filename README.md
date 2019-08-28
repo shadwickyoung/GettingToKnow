@@ -1,4 +1,4 @@
-# Getting to Know My Values
+# Why>README
 
 Pat Berry (@build.com) introduced me to this concept and I thought...I've shared this info in other avenues but not in a widespread channel with many of my peers (e.g. the tech community). Pat originally created a Leadership README inspired by [Katie Womersley](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) and great ideas spread fast!
 
@@ -116,7 +116,7 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 
 ## My expectations of folks who report to me
 
-At the time of writing this, I don't have anyone reporting to me in my current role. I've had as many as 15 direct reports at once and I some general best practices that I've shared to help me help them:
+At the time of writing this, I don't have anyone reporting to me in my current role. I've had as many as 15 direct reports at once and I have some general best practices that I've shared to help me help them:
 
 - Be [humble, hungry (driven) and smart (people smart)](https://www.tablegroup.com/books/ideal-team-player). This makes for great team members. 
 - Ask questions. Be curious about what's happening throughout the organization, how it impacts you, and how you can help.

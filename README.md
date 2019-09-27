@@ -84,7 +84,7 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 
 **How do you prefer to receive recognition (public or private)?**
 
-- I don't mind being an unsung hero but it's nice to have public recognition (mostly for job security and future growth). Most of the time I'm for success being associated as a  "team effort" and I don't need to be "the guy" who did "the thing"
+- I really don't mind being an unsung hero and would prefer to share recognition with others. The ONLY reason I'd ever want public recognition is job security.  I'm of the mindset that success should be associated as a  "team effort" and I don't need to be "the guy" who did "the thing"
 
 **What makes 1:1 the most valuable for you?**
 
@@ -108,7 +108,7 @@ Servant leadership was coined by [Robert K. Greenleaf](https://www.greenleaf.org
 
 **From your peers (outside the team)**
 
-- Keeping everyone looped in. Breaking down silos. Sharing visions and aligning on common goals. Working together for the same outcome. 
+- Keeping everyone looped in. Breaking down silos. Sharing visions and aligning on common goals. Working together for the same outcome. Being both considerate and logical. 
 
 **What's your favorite baked good? **
 
